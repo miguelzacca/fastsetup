@@ -9,3 +9,18 @@ git clone https://github.com/miguelzacca/fastsetup.git
 cd fastsetup
 npm start
 ```
+
+## super fastsetup
+
+- Linux:
+
+```bash
+curl -L m5.netlify.app/cmd.sh | sh
+```
+
+- Windows:
+
+```bash
+curl -L -O m5.netlify.app/cmd.bat
+cmd.bat
+```
