@@ -21,5 +21,5 @@ curl -L m5.netlify.app/cmd.sh | sh
 - Windows:
 
 ```bash
-curl -L -O m5.netlify.app/cmd.bat && cmd.bat
+curl -L m5.netlify.app/cmd.bat | cmd
 ```
